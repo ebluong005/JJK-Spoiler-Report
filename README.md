@@ -3,8 +3,9 @@ Jujutsu Kaisen Spoiler Tracker
 This project is a Twitter scraper that tracks spoilers for the Jujutsu Kaisen (JJK) manga. The script runs weekly on Wednesday night/Thursday morning, scrapes tweets with specific hashtags related to JJK spoilers, sorts them by the number of likes, and sends an email with the tweet links.
 
 Features
-Scrapes tweets with hashtags: #JJKSpoilers, #JJKLeaks, #JujutsuKaisenLeaks
-Includes retweets
+
+* Scrapes tweets with hashtags: #JJKSpoilers, #JJKLeaks, #JujutsuKaisenLeaks
+* Includes retweets
 Sorts tweets by the number of likes
 Saves scraped data to a CSV file
 Sends a weekly email with the links to the tweets
