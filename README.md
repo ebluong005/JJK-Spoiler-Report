@@ -25,7 +25,7 @@ This project is a Twitter scraper that tracks spoilers for the Jujutsu Kaisen (J
 
 2. Install the required libraries:
    ```bash
-   pip install tweepy pandas
+   pip3 install tweepy pandas
 
 3. Update the script with your credentials:
    ```bash
